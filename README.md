@@ -7,7 +7,7 @@ Download kernel deb package https://github.com/Griggorii/linux-image-5.9.2_amd64
 
 
 
-Данное ядро имеет ресертификацию и поддерживает при этом nvidia вот так она выглядит
+Данное ядро имеет ресертификацию и поддерживает при этом nvidia вот так она выглядит , ядро имеет zstd функции
 
 CONFIG_MODULE_SIG_KEY=""
 
